@@ -1,9 +1,6 @@
-site_name: Hedy Lamarr
+site_name: FelipeBob
 
-repo_name: "Hedy Lamarr"
-repo_url: "https://github.com/FCTE-Qualidade-de-Software-1/2025-1-T01-HEDY-LAMAR"
-
-site_description: Documentação do projeto do grupo Hedy Lamar de Qualidade de Software (2025.1), Turma 1
+site_description: Site pro meu amigo Felipe
 
 nav:
   - Início: index.md
@@ -51,8 +48,8 @@ theme:
       primary: "#03161A"
       accent: black
 
-  logo: img/icon.jpg
-  favicon: img/icon.jpg
+  logo: img/IMG-20250323-WA0021.jpg
+  favicon: img/IMG-20250323-WA0021.jpg
 
 markdown_extensions:
   - attr_list
