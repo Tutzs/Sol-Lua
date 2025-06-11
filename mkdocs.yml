@@ -1,9 +1,13 @@
-site_name: FelipeBob
+site_name: Sol e Lua Recreation
 
-site_description: Site pro meu amigo Felipe
+site_description: Documentação para se tornar um bom recreador.
 
 nav:
   - Início: index.md
+  - Pré-evento: pre.md
+  - Evento: meio.md
+  - Pós-evento: pos.md
+  - Músicas: play.md
 
 theme:
   name: material
@@ -40,7 +44,8 @@ theme:
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
-      primary: "#03161A"
+      primary: purple
+      accent: black
 
     - scheme: default
       toggle:
@@ -48,8 +53,14 @@ theme:
       primary: "#03161A"
       accent: black
 
-  logo: img/IMG-20250323-WA0021.jpg
-  favicon: img/IMG-20250323-WA0021.jpg
+  logo: img/SL.png
+  favicon: img/SL.png
+
+plugins:
+  - search
+  - git-revision-date-localized:
+      type: date
+      enable_creation_date: true
 
 markdown_extensions:
   - attr_list

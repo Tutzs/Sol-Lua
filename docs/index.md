@@ -1,26 +1,32 @@
-# Um Novo Amor
+# Recreação
 
-Sabe aquele amigo que sempre esteve por perto, compartilhando risadas, confidências e até algumas aventuras? Pois é, recentemente ele foi surpreendido por algo que muda tudo: se apaixonou. E não foi uma paixão qualquer, dessas passageiras, mas sim aquela que faz brilhar os olhos e muda o jeito de falar sobre o futuro.
+Esse documento/site tem como propósito esclarecer algumas coisas sobre a parte da recreação, que faz total diferença nos eventos.
 
----
+Foi feito também para quem quiser ver alguma informação de forma rápida. Pois um site da para salvar ele facilmente e ter o acesso fácil também.
 
-<p align="center">
-  <img src="img/IMG-20250323-WA0021.jpg" alt="Texto alternativo" width="50%">
-</p>
----
-
-De repente, as conversas mudaram. Agora, entre um jogo e outro, ele fala sobre mensagens trocadas, encontros marcados e planos para o fim de semana. O sorriso ficou mais fácil, a ansiedade virou borboleta no estômago e até as músicas ganharam outro sentido.
-
-Nós, amigos, estamos felizes por ver essa transformação. É bonito acompanhar alguém descobrindo um novo sentimento, se permitindo viver algo intenso e verdadeiro. Que esse amor traga ainda mais alegria, aprendizado e momentos inesquecíveis.
-
-Lembre-se, amigo: aproveite cada instante, mas não esqueça de quem sempre esteve ao seu lado. O coração pode crescer e sempre cabe mais amizade e carinho.
+Sabemos que o animador que comanda o evento, porém se o animador fizer tudo sozinho fica ruim, por isso temos os recreadores, para dar uma facilitada e deixar o evento fluido.
+ 
+Sem o recreador, o animador consegue sim fazer um evento e até fazer um bom evento, mas será muito mais difícil, por isso estamos ali para ajudar eles e auxiliar eles, e quem sabe no futuro não serão vocês como animadores sendo auxiliados por outros recreadores.
 
 ---
 
-<p align="center">
-  <img src="img/IMG-20250323-WA0018.jpg" alt="Texto alternativo" width="50%">
-</p>
+## Sumário
 
-Nós estamos orgulhosos amigo, vai dar td certo, aproveite demais, porém não nos abandone, não esqueça os amigos!
+Vou dividir em Pré-evento, Evento, Pós-evento e Músicas. 
+
+- [Pré-Evento](pre.md)
+- [Evento](meio.md)
+- [Pós-Evento](pos.md)
+- [Músicas](play.md)
 
 ---
+
+Todo conteúdo foi feito com base no que o Hudson me ensinou e continua ensinando.
+
+---
+
+## Autores 
+
+| <a href="https://github.com/Tutzs"><img src="https://avatars.githubusercontent.com/u/110691207?s=400&u=0f285ace4b3188bb274e2531ead3691d7161656a&v=4" width="150"></a> | <a href="https://github.com/HudsonCls"><img src="https://avatars.githubusercontent.com/u/203028170?v=4" width="150"></a> |
+| :----------: | :----------: | 
+| [Arthur Sousa](https://github.com/Tutzs) | [Hudson Calasans](https://github.com/HudsonCls) |
