@@ -1,3 +1,5 @@
+![Logo Sol e Lua](docs/img/SL.png)
+
 # Recreação
 
 Esse documento/site tem como propósito esclarecer algumas coisas sobre a parte da recreação, que faz total diferença nos eventos.
