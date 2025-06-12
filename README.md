@@ -1,4 +1,6 @@
-![Logo Sol e Lua](docs/img/SL.png)
+<p align="center">
+  <img src="docs/img/SL.png" alt="Logo Sol e Lua" width="50%">
+</p>
 
 # Recreação
 
@@ -16,10 +18,10 @@ Sem o recreador, o animador consegue sim fazer um evento e até fazer um bom eve
 
 Vou dividir em Pré-evento, Evento, Pós-evento e Músicas. 
 
-- [Pré-Evento](pre.md)
-- [Evento](meio.md)
-- [Pós-Evento](pos.md)
-- [Músicas](msc/musicas.md)
+- [Pré-Evento](docs/pre.md)
+- [Evento](docs/meio.md)
+- [Pós-Evento](docs/pos.md)
+- [Músicas](docs/play.md)
 
 ---
 

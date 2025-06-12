@@ -17,7 +17,7 @@ Vou dividir em Pré-evento, Evento, Pós-evento e Músicas.
 - [Pré-Evento](pre.md)
 - [Evento](meio.md)
 - [Pós-Evento](pos.md)
-- [Músicas](msc/musicas.md)
+- [Músicas](play.md)
 
 ---
 
