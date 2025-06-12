@@ -7,7 +7,7 @@ nav:
   - Pré-evento: pre.md
   - Evento: meio.md
   - Pós-evento: pos.md
-  - Músicas: play.md
+  - Playlists: play.md
 
 theme:
   name: material

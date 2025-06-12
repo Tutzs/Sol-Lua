@@ -2,7 +2,7 @@
 
 Esse documento/site tem como propósito esclarecer algumas coisas sobre a parte da recreação, que faz total diferença nos eventos.
 
-Foi feito também para quem quiser ver alguma informação de forma rápida. Pois um site da para salvar ele facilmente e ter o acesso fácil também.
+Foi feito também para quem quiser ver alguma informação de forma rápida. Pois você pode salvar esse site e ter o acesso rápido
 
 Sabemos que o animador que comanda o evento, porém se o animador fizer tudo sozinho fica ruim, por isso temos os recreadores, para dar uma facilitada e deixar o evento fluido.
  
@@ -17,7 +17,7 @@ Vou dividir em Pré-evento, Evento, Pós-evento e Músicas.
 - [Pré-Evento](pre.md)
 - [Evento](meio.md)
 - [Pós-Evento](pos.md)
-- [Músicas](play.md)
+- [Músicas](msc/musicas.md)
 
 ---
 

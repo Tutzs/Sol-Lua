@@ -6,6 +6,8 @@ Chegamos ao evento, o que faremos?
 
 Depois de se apresentar e montar tudo, coloque uma música boa, seja animado, não tenha vergonha e ajude seu animador(a).
 
+Normalmente, temos o primeiro momento da pintura e balão, por uns 40min a 50min, deixe sempre música rolando durante esse tempo.
+
 Interaja com as crianças, mas como? Pergunte nome, idade, time que gosta, filme/desenho favorito, cor favorita, brincadeira favorita, princesa ou herói favorito, basicamente tente virar amigo dela.
 
 Você pode fazer isso enquanto faz os balões ou enquanto faz a pintura.
@@ -16,10 +18,16 @@ Preste atenção no seu animador(a) se você não souber como funciona a brincad
 
 Pergunte sempre o que o animador quer fazer.
 
-Se o animador for da intervalo lembre sempre das músicas para não ficar vazio o momento de pausa.
+Na hora do intervalo lembre sempre das músicas para não ficar um vazio no momento de intervalo.
 
-## Dicas:
+## Dicas
 
-- Interagir sempre com as crianças, puxe assunto do além, mas interaja
-- Quando começar os desafios/brincadeiras, chame elas falando que vai começar as brincadeiras
-- 
+- Interagir sempre com as crianças, vire amigo dela.
+- Quando começar os desafios/brincadeiras, avise elas falando que vai começar as brincadeiras
+- Lembre sempre de colocar música na hora do intervalo.
+- Pergunte sempre ao animador(a) o que ele vai fazer.
+- Sempre arrume a brincadeira e se possível já deixe a próxima preparada.
+- Assim que acabar a brincadeira já guarde os materiais que foram usados.
+- Se alguma criança ficar se pendurando no animador(a) tire ela.
+- Lembre de gravar vídeos e tirar fotos.
+- Na hora do parabéns, levar caixa de som para mesa do bolo e acender a vela c isqueiro.

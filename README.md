@@ -1,13 +1,32 @@
-# Sobre o projeto
+# Recreação
 
-Este repositório reúne todos os artefatos desenvolvidos pelo Grupo Hedy Lamar durante o primeiro semestre de 2025, na disciplina de Qualidade de Software da Faculdade de Ciências e Tecnologias em Engenharia da Universidade de Brasília (FCTE-UnB).
+Esse documento/site tem como propósito esclarecer algumas coisas sobre a parte da recreação, que faz total diferença nos eventos.
 
-# Hedy Lamarr
+Foi feito também para quem quiser ver alguma informação de forma rápida. Pois você pode salvar esse site e ter o acesso rápido
 
-Nascida Hedwig Eva Maria Kiesler na Áustria, Lamarr, além de sua beleza e talento para a atuação, tinha uma mente inquisitiva e um interesse autodidata por ciência e tecnologia. Motivada a auxiliar o esforço dos Aliados durante a guerra, ela uniu forças com o compositor e inventor George Antheil. Juntos, desenvolveram um engenhoso sistema de "salto de frequência" (frequency hopping). A ideia central era permitir que torpedos guiados por rádio mudassem rapidamente de frequência de controle, tornando-os praticamente imunes à detecção e interferência inimiga.
+Sabemos que o animador que comanda o evento, porém se o animador fizer tudo sozinho fica ruim, por isso temos os recreadores, para dar uma facilitada e deixar o evento fluido.
+ 
+Sem o recreador, o animador consegue sim fazer um evento e até fazer um bom evento, mas será muito mais difícil, por isso estamos ali para ajudar eles e auxiliar eles, e quem sabe no futuro não serão vocês como animadores sendo auxiliados por outros recreadores.
 
-Em agosto de 1942, Lamarr (usando seu nome de casada na época, Hedy Kiesler Markey) e Antheil receberam a patente U.S. Patent No. 2,292,387 pelo seu "Sistema de Comunicação Secreto". A inspiração para a sincronização das mudanças de frequência veio, em parte, dos rolos de pianola que Antheil utilizava em suas composições musicais, com 88 "frequências" possíveis, o mesmo número de teclas de um piano.
+---
 
-# Membro da equipe
+## Sumário
 
+Vou dividir em Pré-evento, Evento, Pós-evento e Músicas. 
 
+- [Pré-Evento](pre.md)
+- [Evento](meio.md)
+- [Pós-Evento](pos.md)
+- [Músicas](msc/musicas.md)
+
+---
+
+Todo conteúdo foi feito com base no que o Hudson me ensinou e continua ensinando.
+
+---
+
+## Autores 
+
+| <a href="https://github.com/Tutzs"><img src="https://avatars.githubusercontent.com/u/110691207?s=400&u=0f285ace4b3188bb274e2531ead3691d7161656a&v=4" width="150"></a> | <a href="https://github.com/HudsonCls"><img src="https://avatars.githubusercontent.com/u/203028170?v=4" width="150"></a> |
+| :----------: | :----------: | 
+| [Arthur Sousa](https://github.com/Tutzs) | [Hudson Calasans](https://github.com/HudsonCls) |
