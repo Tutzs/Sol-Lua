@@ -19,7 +19,7 @@ Porém, você tem que estar atento se o local do evento é longe, dependendo do 
 
 ---
 
-## Dicas: 
+## Dicas
 - Tente deixar seu celular na caixa de som, para que na hora de colocar as músicas você não se perder usando o celular dos outros.
 - Se tiver bag, já pegue a chave do baú e guarde na sua bag.
 - Se não souber alguma brincadeira, já pergunte como elas funcionam para seu animador(a) que ele vai te explicando e você vai entendendo.

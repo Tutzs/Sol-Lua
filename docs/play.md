@@ -93,7 +93,9 @@ Fique a vontade e se sinta encorajado de criar suas próprias *playlists*.
 
 ## *Youtube*
 
-Essas *playlists* do *youtube* foram feitas pela animadora Evellim.
+Essas *playlists* no *youtube* foram feitas pela animadora **Evellim**.
+
+Só clicar no link e será direcionado para a *playlist*
 
 ### Danças
 
@@ -108,8 +110,6 @@ Essas *playlists* do *youtube* foram feitas pela animadora Evellim.
 ---
 
 ### Filmes
-
----
 
 [Fimes](https://music.youtube.com/playlist?list=PLgUpzFFEikMrlxWCOCQUQv2FWLDFY12yt&si=yvm3ceZOdPsITY7X)
 
