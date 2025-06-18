@@ -8,6 +8,9 @@ nav:
   - Evento: meio.md
   - Pós-evento: pos.md
   - Playlists: play.md
+  - Caixa de Som: 
+    - Thunder X (Antiga): caixa/x.md
+    - Thunder Bolt (Nova): caixa/bolt.md
 
 theme:
   name: material
