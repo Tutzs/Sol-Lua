@@ -1,14 +1,10 @@
-<p align="center">
-  <img src="img/x1.jpg" alt="Caixa de som Thunder X" width="30%">
-</p>
+![Caixa de som Thunder X](img/x1.jpg)
 
 ---
 
 ## Painel 
 
-<p align="center">
-  <img src="img/old.jpg" alt="Painel Thunder X" width="100%">
-</p>
+![Painel Thunder X](img/old.jpg)
 
 ---
 

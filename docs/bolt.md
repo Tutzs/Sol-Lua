@@ -1,16 +1,10 @@
-
-
-<p align="center">
-  <img src="img/caixa.webp" alt="Caixa de som Thunder Bolt" width="30%">
-</p>
+![Caixa de som Thunder Bolt](img/caixa.webp)
 
 ---
 
 ## Painel
 
-<p align="center">
-  <img src="img/new.jpg" alt="Painel Thunder Bolt" width="100%">
-</p>
+![Painel Thunder Bolt](img/new.jpg)
 
 ---
 
