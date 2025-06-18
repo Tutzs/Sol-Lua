@@ -1,15 +1,13 @@
-
-
 <p align="center">
-  <img src="../img/Caixa.webp" alt="Caixa de som Thunder Bolt" width="30%">
+  <img src="img/x1.jpg" alt="Caixa de som Thunder X" width="30%">
 </p>
 
 ---
 
-## Painel
+## Painel 
 
 <p align="center">
-  <img src="../img/New.jpg" alt="Caixa de som Thunder Bolt" width="100%">
+  <img src="img/old.jpg" alt="Painel Thunder X" width="100%">
 </p>
 
 ---
@@ -22,6 +20,7 @@
 4. Voltar a música (*Preview*)
 5. Pause/modo *TWS*
 6. Próxima música (*Next*)
+
 Na direita temos entradas USB, Cartão de memória.
 
 Temos dois controles de volume um na esquerda (**MIC. VOL**) e um na direita (**Volume**)
@@ -35,14 +34,13 @@ No meio temos um painel de *led*
 
 ## Equalizador
 
-Diferente da outra caixa nessa temos um equalizador de 6 faixas, começando em 80Hz e indo até 12KHz, recomendado deixar tudo no meio, para não desbalancear.
+Temos um equalizador de 5 faixas, começando em 200Hz e indo até 12KHz, recomendado deixar tudo no meio, para não desbalancear.
 
-- 80Hz: Controla os graves profundos
-- 400Hz: Região dos graves-médios
-- 800Hz: Médios
-- 1KKz: Médios-altos
-- 6KHz: Agudos
-- 12KHz: Agudos-extremos
+- 200Hz: Controla os graves 
+- 500Hz: Região dos médios-graves 
+- 1KKz: Médios
+- 5KHz: Médios-agudos
+- 12KHz: Agudos
 
 ---
 
@@ -51,10 +49,11 @@ Diferente da outra caixa nessa temos um equalizador de 6 faixas, começando em 8
 - MIC 1 - Entrada para microfone de fio
 - MIC 2 - Entrada para microfone de fio
 - M. PRI - Prioridade do microfone, caso esteja ativado, o microfone se torna prioridade e abaixa a música.
-- M. TREBLE - Agudo do microfone 
+- M. TREBLE - Agudo do microfone
 - M. BASS - Grave do microfone
-- X. BASS - Grave da música
-- GT. VOL - Volume da entrada de Guitarra (como se fosse uma entrada de microfone)
+- M. DELAY - Delay do microfone 
+- M. ECHO - Eco do microfone
+- G. VOL - Volume da entrada de Guitarra (como se fosse uma entrada de microfone)
 - GT IN - Entrada para Guitarra
 - AUDIO - Entrada P2, para cabos auxiliares
 
@@ -79,13 +78,5 @@ Se a voz estiver muito abafada/pesada:
 
 - Aumente o ***TREBLE*** para dar mais clareza
 - Diminuia o ***BASS*** se os graves estiverem exagerados
-
----
-
-## X. BASS
-
-Controla o grave da música
-
-Se você deixar o volume da música no 0, porém aumentar o grave, a música fica somente o grave tocando, muito útil para músicas de fundo.
 
 ---
