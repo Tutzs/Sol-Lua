@@ -17,7 +17,8 @@ Vou dividir em Pré-evento, Evento, Pós-evento e Músicas.
 - [Pré-Evento](pre.md)
 - [Evento](meio.md)
 - [Pós-Evento](pos.md)
-- [Músicas](play.md)
+- [Playlist](play.md)
+- [Caixa de som](caixa/x.md)
 
 ---
 
