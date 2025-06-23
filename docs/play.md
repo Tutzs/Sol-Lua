@@ -27,7 +27,7 @@ Fique a vontade e se sinta encorajado de criar suas próprias *playlists*.
 
 ### *Playlist* pessoal (**Arthur**)
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/4ZQwBkGY4rTWOGowmrzALm?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/4ZQwBkGY4rTWOGowmrzALm?utm_source=generator&theme=0" width="100%" height="360" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ---
 
@@ -57,37 +57,37 @@ Fique a vontade e se sinta encorajado de criar suas próprias *playlists*.
 
 ### Músicas 1 a 4 anos
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2AsqGncmiA7izbqyvjzaJh?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2AsqGncmiA7izbqyvjzaJh?utm_source=generator&theme=0" width="100%" height="360" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ---
 
 ### Músicas 7 a 14 anos
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/6aQlquCqwm7zSzz6YZYZO7?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/6aQlquCqwm7zSzz6YZYZO7?utm_source=generator&theme=0" width="100%" height="360" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ---
 
 ### Hinos
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/19FaQ0Sbrk0RWUqhHKwuj6?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/19FaQ0Sbrk0RWUqhHKwuj6?utm_source=generator&theme=0" width="100%" height="360" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ---
 
 ### Carnaval
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/7JWgE9wgenyRm5AGYZuaBE?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/7JWgE9wgenyRm5AGYZuaBE?utm_source=generator&theme=0" width="100%" height="360" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ---
 
 ### Princesas
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/6C8NGIdeONIib80RqF2ID3?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/6C8NGIdeONIib80RqF2ID3?utm_source=generator&theme=0" width="100%" height="360" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ---
 
 ### Instrumentais animadas
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0nBhBx8Mbvg5NSNELpKeiB?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0nBhBx8Mbvg5NSNELpKeiB?utm_source=generator&theme=0" width="100%" height="360" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ---
 
