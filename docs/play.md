@@ -21,7 +21,7 @@ Algumas das *playlists* são mais específicas e auxiliares como :
 
 ## *Spotify*
 
-Boa parte das *playlists* foram feitas pelo animador **Luís**, porém algumas eu mesmo criei (**Arthur**). 
+Boa parte das *playlists* foram feitas pelo animador **Lipe**, porém algumas eu mesmo criei (**Arthur**). 
 
 Fique a vontade e se sinta encorajado de criar suas próprias *playlists*.
 

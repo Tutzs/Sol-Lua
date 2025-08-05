@@ -22,12 +22,8 @@ Vou dividir em Pré-evento, Evento, Pós-evento e Músicas.
 
 ---
 
-Todo conteúdo foi feito com base no que o Hudson me ensinou e continua ensinando.
+## Autor
 
----
-
-## Autores 
-
-| <a href="https://github.com/Tutzs"><img src="https://avatars.githubusercontent.com/u/110691207?s=400&u=0f285ace4b3188bb274e2531ead3691d7161656a&v=4" width="150"></a> | <a href="https://github.com/HudsonCls"><img src="https://avatars.githubusercontent.com/u/203028170?v=4" width="150"></a> |
-| :----------: | :----------: | 
-| [Arthur Sousa](https://github.com/Tutzs) | [Hudson Calasans](https://github.com/HudsonCls) |
+| <a href="https://github.com/Tutzs"><img src="https://avatars.githubusercontent.com/u/110691207?s=400&u=0f285ace4b3188bb274e2531ead3691d7161656a&v=4" width="150"></a> |
+| :----------: | 
+| [Arthur Sousa](https://github.com/Tutzs) |
